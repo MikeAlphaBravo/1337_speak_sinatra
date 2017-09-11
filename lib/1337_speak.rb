@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-class String
+class Riki
   def initialize(input)
     @input = input
   end
